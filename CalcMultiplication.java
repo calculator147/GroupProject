@@ -6,4 +6,8 @@ public class CalcMultiplication {
         result = x * y;
         return result;
     }
+    class multiplication {
+        multiplication obj= new multiplication();
+    }
+}
 }
